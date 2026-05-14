@@ -1,1 +1,1 @@
-{"name":"智慧图书馆大数据系统","version":"0.0.1","url":"http://s.tabook.cn:9999/datav/","password":"666888","input":"./app-icon.png","output":"./res","copyTo":"./app/src/main/res","androidResDir":"./app/src/main/res"}
+{"name":"智慧图书馆大数据系统","version":"0.0.1","url":"http://192.168.100.88:9988/datav/","password":"666888","input":"./app-icon.png","output":"./res","copyTo":"./app/src/main/res","androidResDir":"./app/src/main/res"}
